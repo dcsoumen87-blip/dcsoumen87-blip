@@ -187,7 +187,7 @@ Explore my GitHub profile to discover my projects, contributions and earned achi
 
 ### 📩 CONTACT ME
 
-**Email:** soumen97a@gmail.com
+**Email:** soumen96a@gmail.com
 
 **Open to Learning • Collaboration • Opportunities**
 
