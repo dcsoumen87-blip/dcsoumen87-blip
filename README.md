@@ -62,26 +62,74 @@ I'm passionate about programming, backend development, automation, and building 
 
 ---
 
-<!-- ===================== PROJECTS ===================== -->
+<!-- ===================== FEATURED PROJECTS ===================== -->
 
 # 🚀 FEATURED PROJECTS
 
 <div align="center">
 
+<table width="100%">
+<tr>
+<td align="center">
+
+<h3>⚡ SONVEX</h3>
+
+<p>A software development project.</p>
+
 <a href="https://github.com/dcsoumen87-blip/SONVEX">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=dcsoumen87-blip&repo=SONVEX&theme=tokyonight&hide_border=true"/>
+<img src="https://img.shields.io/badge/VIEW_PROJECT-06B6D4?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+<h3>🤖 SOUVION PROMO</h3>
+
+<p>An educational Discord campaign simulator.</p>
 
 <a href="https://github.com/dcsoumen87-blip/SOUVION-PROMO">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=dcsoumen87-blip&repo=SOUVION-PROMO&theme=tokyonight&hide_border=true"/>
+<img src="https://img.shields.io/badge/VIEW_PROJECT-06B6D4?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+<h3>📧 TEMPMAIL PRO</h3>
+
+<p>A temporary email related development project.</p>
 
 <a href="https://github.com/dcsoumen87-blip/Tempmail-Pro">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=dcsoumen87-blip&repo=Tempmail-Pro&theme=tokyonight&hide_border=true"/>
+<img src="https://img.shields.io/badge/VIEW_PROJECT-06B6D4?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+<h3>🛠️ NUKE TOOL</h3>
+
+<p>Explore the repository and its development work.</p>
+
 <a href="https://github.com/dcsoumen87-blip/Nuke-tool">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=dcsoumen87-blip&repo=Nuke-tool&theme=tokyonight&hide_border=true"/>
+<img src="https://img.shields.io/badge/VIEW_PROJECT-06B6D4?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<a href="https://github.com/dcsoumen87-blip?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -187,7 +235,7 @@ Explore my GitHub profile to discover my projects, contributions and earned achi
 
 ### 📩 CONTACT ME
 
-**Email:** soumen96a@gmail.com
+**Email:** soumen97a@gmail.com
 
 **Open to Learning • Collaboration • Opportunities**
 
