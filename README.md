@@ -1,124 +1,208 @@
+<!-- ===================== HEADER ===================== -->
+
 <div align="center">
 
-# SOUMEN MONDAL
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:075985,100:06B6D4&height=200&section=header&text=SOUMEN%20MONDAL&fontSize=45&fontColor=FFFFFF&fontAlignY=38&desc=Aspiring%20Software%20Developer&descAlignY=58&descSize=18"/>
 
-### SOFTWARE DEVELOPER
-
-Building Digital Solutions & Exploring Technology.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=Python+%7C+JavaScript+%7C+Node.js;Discord+Bot+Developer;Backend+%26+Automation;Always+Learning+New+Technologies"/>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Python+Developer;JavaScript+%26+Node.js;Discord+Bot+Developer;Backend+%26+Automation" />
+<img src="https://komarev.com/ghpvc/?username=dcsoumen87-blip&label=PROFILE+VIEWS&color=06B6D4&style=for-the-badge"/>
+
+</div>
+
+---
+
+<!-- ===================== ABOUT ME ===================== -->
+
+# 👨‍💻 ABOUT ME
+
+Hello! I'm **Soumen Mondal**, an aspiring software developer from **West Bengal, India**.
+
+I'm passionate about programming, backend development, automation, and building useful digital solutions.
+
+- 💻 Interested in Software Development
+- 🐍 Learning and working with Python
+- ⚡ Exploring JavaScript and Node.js
+- 🤖 Discord Bot Development
+- 🔐 Interested in Security & Automation
+- 🚀 Always exploring new technologies
+- 🎯 Focused on improving my development skills
+
+---
+
+<!-- ===================== TECH STACK ===================== -->
+
+# 🛠️ TECH STACK
+
+### 💻 Programming Languages
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,javascript,java"/>
+
+</div>
+
+### ⚙️ Backend & Development
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,sqlite,git,github"/>
+
+</div>
+
+### 🔧 Tools & Platforms
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=vscode,linux,discord"/>
+
+</div>
+
+---
+
+<!-- ===================== PROJECTS ===================== -->
+
+# 🚀 FEATURED PROJECTS
+
+<div align="center">
+
+<a href="https://github.com/dcsoumen87-blip/SONVEX">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=dcsoumen87-blip&repo=SONVEX&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/dcsoumen87-blip/SOUVION-PROMO">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=dcsoumen87-blip&repo=SOUVION-PROMO&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/dcsoumen87-blip/Tempmail-Pro">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=dcsoumen87-blip&repo=Tempmail-Pro&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/dcsoumen87-blip/Nuke-tool">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=dcsoumen87-blip&repo=Nuke-tool&theme=tokyonight&hide_border=true"/>
+</a>
+
+</div>
+
+---
+
+<!-- ===================== GITHUB ANALYTICS ===================== -->
+
+# 📊 GITHUB ANALYTICS
+
+<div align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dcsoumen87-blip&theme=tokyonight"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dcsoumen87-blip&theme=tokyonight&utcOffset=5.5"/>
 
 <br><br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=dcsoumen87-blip&style=flat-square&color=blue)
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dcsoumen87-blip&theme=tokyonight"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dcsoumen87-blip&theme=tokyonight"/>
 
 </div>
 
 ---
 
-## ABOUT ME
+<!-- ===================== CONTRIBUTION STREAK ===================== -->
 
-I'm Soumen Mondal, an aspiring software developer from West Bengal, India.
-
-I enjoy developing software, building Discord applications, exploring backend technologies and creating automation tools.
-
-- Software Development
-- Discord Bot Development
-- Backend Development
-- Automation & Security
-- Continuous Learning
-
----
-
-## TECHNICAL SKILLS
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-**Runtime & Frameworks**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white)
-![discord.py](https://img.shields.io/badge/discord.py-5865F2?style=flat-square&logo=discord&logoColor=white)
-
-**Database & Tools**
-
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-
----
-
-## FEATURED PROJECTS
-
-### 01 | SONVEX
-Application Development Project
-
-[View Source Code →](https://github.com/dcsoumen87-blip/SONVEX)
-
-### 02 | SOUVION PROMO
-Educational Discord Campaign Simulator
-
-[View Source Code →](https://github.com/dcsoumen87-blip/SOUVION-PROMO)
-
-### 03 | TEMPMAIL PRO
-Temporary Email Utility Project
-
-[View Source Code →](https://github.com/dcsoumen87-blip/Tempmail-Pro)
-
----
-
-## GITHUB OVERVIEW
+# 🔥 CONTRIBUTION STREAK
 
 <div align="center">
 
-![Repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fdcsoumen87-blip&query=%24.public_repos&label=Public%20Repositories&color=blue&style=for-the-badge)
-
-![Followers](https://img.shields.io/github/followers/dcsoumen87-blip?style=for-the-badge&color=blue)
-
-![Stars](https://img.shields.io/github/stars/dcsoumen87-blip?style=for-the-badge&color=yellow)
+<img width="80%" src="https://streak-stats.demolab.com?user=dcsoumen87-blip&theme=tokyonight&hide_border=true&background=0D1117&ring=06B6D4&fire=06B6D4&currStreakLabel=06B6D4"/>
 
 </div>
 
 ---
 
-## CONTRIBUTION STREAK
+<!-- ===================== CONTRIBUTION ACTIVITY ===================== -->
+
+# 📈 CONTRIBUTION ACTIVITY
 
 <div align="center">
 
-<img width="75%" src="https://streak-stats.demolab.com?user=dcsoumen87-blip&theme=tokyonight&hide_border=true" />
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dcsoumen87-blip&theme=tokyonight"/>
 
 </div>
 
 ---
 
-## CURRENT FOCUS
+<!-- ===================== ACHIEVEMENTS ===================== -->
 
-- Improving Programming Skills
-- Building Scalable Applications
-- Exploring Backend Technologies
-- Learning Security Development
-- Open Source Collaboration
-
----
-
-## CONNECT
+# 🏆 GITHUB ACHIEVEMENTS
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/dcsoumen87-blip)
+<a href="https://github.com/dcsoumen87-blip">
+<img src="https://img.shields.io/badge/VIEW_MY_GITHUB_PROFILE-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+Explore my GitHub profile to discover my projects, contributions and earned achievements.
+
+</div>
+
+---
+
+<!-- ===================== CURRENT FOCUS ===================== -->
+
+# 🎯 CURRENT FOCUS
+
+<div align="center">
+
+| Area | Focus |
+|:---:|:---|
+| 🐍 Python | Improving Programming Skills |
+| ⚡ JavaScript | Backend Development |
+| 🟢 Node.js | Building Applications |
+| 🤖 Discord | Bot Development |
+| 🔐 Security | Learning Security Concepts |
+| 🚀 Development | Building Real-World Projects |
+
+</div>
+
+---
+
+<!-- ===================== CONNECT ===================== -->
+
+# 🤝 CONNECT WITH ME
+
+<div align="center">
+
+<a href="https://github.com/dcsoumen87-blip">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:soumen97a@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+### 📩 CONTACT ME
+
+**Email:** soumen97a@gmail.com
+
+**Open to Learning • Collaboration • Opportunities**
 
 <br>
 
-**Open to Learning, Collaboration & Opportunities.**
+*Building Today. Innovating Tomorrow.*
 
-<br>
+</div>
 
-*Building today. Improving tomorrow.*
+---
+
+<!-- ===================== FOOTER ===================== -->
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:075985,100:0F172A&height=120&section=footer"/>
 
 </div>
