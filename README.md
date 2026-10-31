@@ -2,84 +2,92 @@
 
 # SOUMEN MONDAL
 
-### Aspiring Software Developer
+### SOFTWARE DEVELOPER
 
-**Building Digital Solutions | Exploring Technology | Creating Impact**
-
-<br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Python+Developer;JavaScript+%26+Node.js+Developer;Discord+Bot+Developer;Backend+%26+Automation+Enthusiast" />
+Building Digital Solutions & Exploring Technology.
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=dcsoumen87-blip&style=for-the-badge&color=blue)
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Python+Developer;JavaScript+%26+Node.js;Discord+Bot+Developer;Backend+%26+Automation" />
+
+<br><br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=dcsoumen87-blip&style=flat-square&color=blue)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## ABOUT ME
 
-Hello! I'm **Soumen Mondal**, an aspiring software developer from West Bengal, India.
+I'm Soumen Mondal, an aspiring software developer from West Bengal, India.
 
-I enjoy developing applications, Discord bots, automation tools and exploring backend technologies.
+I enjoy developing software, building Discord applications, exploring backend technologies and creating automation tools.
 
-- 💻 Interested in Software Development
-- 🤖 Discord Bot Development
-- ⚙️ Backend & Automation
-- 🔐 Exploring Security Technologies
-- 🚀 Continuously Learning & Building
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
+- Software Development
+- Discord Bot Development
+- Backend Development
+- Automation & Security
+- Continuous Learning
 
 ---
 
-## 🚀 Featured Projects
+## TECHNICAL SKILLS
 
-### 01. SONVEX
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Runtime & Frameworks**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white)
+![discord.py](https://img.shields.io/badge/discord.py-5865F2?style=flat-square&logo=discord&logoColor=white)
+
+**Database & Tools**
+
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+
+---
+
+## FEATURED PROJECTS
+
+### 01 | SONVEX
 Application Development Project
 
-[Explore Repository](https://github.com/dcsoumen87-blip/SONVEX)
+[View Source Code →](https://github.com/dcsoumen87-blip/SONVEX)
 
-### 02. SOUVION PROMO
+### 02 | SOUVION PROMO
 Educational Discord Campaign Simulator
 
-[Explore Repository](https://github.com/dcsoumen87-blip/SOUVION-PROMO)
+[View Source Code →](https://github.com/dcsoumen87-blip/SOUVION-PROMO)
 
-### 03. TEMPMAIL PRO
+### 03 | TEMPMAIL PRO
 Temporary Email Utility Project
 
-[Explore Repository](https://github.com/dcsoumen87-blip/Tempmail-Pro)
+[View Source Code →](https://github.com/dcsoumen87-blip/Tempmail-Pro)
 
 ---
 
-## 📊 GitHub Statistics
+## GITHUB OVERVIEW
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dcsoumen87-blip&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+![Repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fdcsoumen87-blip&query=%24.public_repos&label=Public%20Repositories&color=blue&style=for-the-badge)
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dcsoumen87-blip&layout=compact&theme=tokyonight&hide_border=true" />
+![Followers](https://img.shields.io/github/followers/dcsoumen87-blip?style=for-the-badge&color=blue)
+
+![Stars](https://img.shields.io/github/stars/dcsoumen87-blip?style=for-the-badge&color=yellow)
 
 </div>
 
 ---
 
-## 🔥 Contribution Streak
+## CONTRIBUTION STREAK
 
 <div align="center">
 
@@ -89,44 +97,28 @@ Temporary Email Utility Project
 
 ---
 
-## 🏆 GitHub Trophies
+## CURRENT FOCUS
 
-<div align="center">
-
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=dcsoumen87-blip&theme=tokyonight&no-frame=true&row=1&column=6" />
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=dcsoumen87-blip&theme=tokyo-night&hide_border=true" />
-
-</div>
+- Improving Programming Skills
+- Building Scalable Applications
+- Exploring Backend Technologies
+- Learning Security Development
+- Open Source Collaboration
 
 ---
 
-## 🎯 Current Goals
-
-- Improve Programming Skills
-- Build Professional Applications
-- Explore Backend Development
-- Learn Advanced Security Concepts
-- Contribute to Open Source Projects
-
----
+## CONNECT
 
 <div align="center">
 
-### 🤝 Let's Connect & Build Together
-
-**Thanks for visiting my GitHub Profile!**
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/dcsoumen87-blip)
 
 <br>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+**Open to Learning, Collaboration & Opportunities.**
+
+<br>
+
+*Building today. Improving tomorrow.*
 
 </div>
